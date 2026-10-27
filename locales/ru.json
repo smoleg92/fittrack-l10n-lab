@@ -6,5 +6,6 @@
    "stats.last_run": "Last run: {date}",
    "plan.price": "Premium: {price}/month",
    "button.start": "Старт",
-   "share.text": "Share your progress with friends"
+   "share.text": "Share your progress with friends",
+   "goal.reached": "Goal reached!"
 }
