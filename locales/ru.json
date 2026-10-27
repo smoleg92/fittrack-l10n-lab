@@ -1,10 +1,10 @@
 {
    "welcome.title": "Welcome back, {name}!",
-   "welcome.subtitle": "Ready to train?",
+   "welcome.subtitle": "Готовы тренироваться?",
    "workout.distance": "You ran {distance} today",
    "workout.count": "{count, plural, one {Вы завершили # тренировку на этой неделе} few {Вы завершили # тренировки на этой неделе} many {Вы завершили # тренировок на этой неделе} other {Вы завершили # тренировок на этой неделе}}",
    "stats.last_run": "Last run: {date}",
    "plan.price": "Premium: {price}/month",
-   "button.start": "Start",
+   "button.start": "Старт",
    "share.text": "Share your progress with friends"
 }
